@@ -30,7 +30,7 @@ ls
 ## Удалить файл
 ### Windows
 ```sh
-del имя_файл
+del имяgit_файл
 ```
 ### MacOS/Linux
 

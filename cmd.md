@@ -64,3 +64,6 @@ a
 git commi -m
 git log --oneline
 git dff
+git log --oneline --graph
+git checkout -b имя_ файла  создает ветку и переключается на нее
+git commi -a -m "Какой нибудь commit" -  добавляет commit и сохраняет файл

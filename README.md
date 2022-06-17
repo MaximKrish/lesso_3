@@ -2,7 +2,7 @@
 
 Если ошибка при git push тогда набираем команду git pull --rebase
 
-LДобавили строчку текста через браузер ADD english text for conflict 
+Добавили строчку текста через браузер ADD english text for conflict 
 
 Добавлли текст локально
 4444
